@@ -15,7 +15,7 @@ Top superpowers according to my manager and teammates at AWS in my 2020 review:
 
 ~~[call me beep me if you wanna reach me](https://www.youtube.com/watch?v=s8muxst31cw)~~ 
 
-💌 [Email me](hello@stephjs.com)
+💌 [Email me](mailto:hello@stephjs.com)
 
 <!--
 **stephjs/stephjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
