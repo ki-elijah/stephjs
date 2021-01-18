@@ -4,7 +4,7 @@ My internet friends know me as [@_steph.js](https://www.instagram.com/_steph.js/
 
 I work at [AWS](https://aws.amazon.com/what-is-aws/) building [AWS Security Hub](https://aws.amazon.com/security-hub) -- a service that aggregates, organizes, and prioritizes your security findings to give you a comprehensive view of your high-priority security alerts and compliance status across AWS accounts. 
 
-Before that, I was Frontend Developer at [digital marketing startup](https://www.centerfield.com/), and then a Software Engineer at [Sony](https://www.sonynms.com/).
+Before that, I was Frontend Developer at a [digital marketing startup](https://www.centerfield.com/), and then a Software Engineer at [SONY](https://www.sonynms.com/).
 
 Current favorite stack 🥞: TypeScript, React, GraphQL, Node.js, AWS
 
