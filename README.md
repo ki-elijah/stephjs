@@ -8,10 +8,12 @@ Before that, I was Frontend Developer at a [digital marketing startup](https://w
 
 Current favorite stack 🥞: TypeScript, React, GraphQL, Node.js, AWS
 
-Top superpowers according to my manager and teammates at AWS in my 2020 review:
+I'm learning 🌱: Solidity for building dApps
+
+Top superpowers according to my manager and teammates at AWS in my 2021 review:
 1. Deliver Results
-2. Bias for Action
-3. Learn and Be Curious
+2. Ownership
+3. Bias for Action
 
 ~~[call me beep me if you wanna reach me](https://www.youtube.com/watch?v=s8muxst31cw)~~ 
 
